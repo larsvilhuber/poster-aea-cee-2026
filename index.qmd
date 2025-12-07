@@ -274,6 +274,14 @@ I will go beyond that, and argue **"Yes we should!"**
 
 # Thank you.
 
+# Additional links
+
+- [Impacts of the AEA Data Editorship](https://aeadataeditor.github.io/aea-cumulative-summary/impacts_of_aea_data_editing.html)
+- Internship with the AEA Data Editor years [2](https://aeadataeditor.github.io/projects/project5), [3](https://aeadataeditor.github.io/projects/project6), and [latest](https://aeadataeditor.github.io/projects/project7)
+- [LDI Replication Lab Manual](https://labordynamicsinstitute.github.io/ldilab-manual/), including instructions on how to generate reproducible output from a variety of software packages.
+- [Template repository for reproducibility checks](https://github.com/AEADataEditor/replication-template), including template report and sample code.
+- 2025 Report of the AEA Data Editor [@10.1257/pandp.115.944] 
+
 ---
 
 ## References 
