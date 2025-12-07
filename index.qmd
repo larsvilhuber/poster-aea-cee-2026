@@ -8,6 +8,28 @@ bibliography: ["references.bib","references-zotero.bib"]
 ---
 
 
+```{r config,include=FALSE}
+source(here::here("config.R"))
+```
+
+```{r config,include=FALSE}
+source(here::here("00-follow-along.R"))
+```
+
+
+```
+
+
+```
+
+You can find this document at <`r WEBSITE_URL`>. If you are viewing this on somebody else's screen, scan the QR code:
+
+
+- This document's source: <`r REPOSITORY_URL`>
+- Licensed under [![CC BY-NC 4.0](/images/cc-by-nc-80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+# Introduction
+
 **Richard Ball** asked the (rhetorical) question "Is it feasible to include reproducible research methods in **undergraduate** training?"  [@ballYesWeCan2023], answering that question with **"Yes we can!"**. 
 
 ---
