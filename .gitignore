@@ -5,3 +5,4 @@ index_files
 .cache
 .*lock*
 images/qrcode.png
+*.bak
