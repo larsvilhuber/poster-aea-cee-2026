@@ -161,23 +161,29 @@ I will go beyond that, and argue **"Yes we should!"**
 
 >  For every issue I did solve, there was a gratifying moment, knowing I’ve explored something new and that the authors would read and heed my documented solution. It’s always a huge confidence boost whenever I take the initiative to research and dabble with problems I might not be able to solve.
 
-# Summer 2024 internship at AEA
+# Summer internship at AEA
+
+## What is it
+
+- A non-credit internship with the same educational goals as outlined
+- Currently limited to undergraduates from partner institutions
+- Currently limited by funding (journal support) and "raw material" (articles to be checked)
 
 ## Participants
 
 - Initiated by Cornell University (Vilhuber)
 - 5 partner institutions (**Wellesley, Haverford, Bryn Mawr, Notre Dame, U Colorado at Boulder**, UNC Chapel Hill$^*$), each with a local coordinator
-- 9 students selected in total 
+- 9 students selected in total in 2024, 2025 each 
 
 ## Timeline
 
 - Training in April (to skirt finals)
 - Start after finals (May 20 - June 1, depending)
-- 12 weeks core participation
+- 10-12 weeks core participation
 
 ## Structure
 
-- **12-16 weeks** of participation
+- **12-16 weeks** of participation (some students stay after the core period)
 - Funded by journal for real work (real articles, real reports)
 - Partially supported by various host institutions 
 
@@ -198,6 +204,39 @@ I will go beyond that, and argue **"Yes we should!"**
 - Use of remote Windows and in some cases Linux servers
 - Basic use of multiple software not previously used
 - Repeated use of modern software development tools: Git, Markdown, automation 
+
+
+# **Yes we should**
+
+## **Yes we should**
+
+::: {.incremental}
+
+- Include training on reproducible practices in **undergraduate curricula** (junior / penultimate year) [^alsomendez]
+- Include training on reproducible practices in **graduate curricula** (after coursework) 
+- Training should include practice on **pre-publication** (own faculty) and **post-publication** (journal publications)
+- May involve structured reporting (**[Social Science Reproduction Platform](https://www.socialsciencereproduction.org/)**)
+
+:::
+
+[^alsomendez]: See also @mendez-carbajoDataCitationsReproducibility2023
+
+# Thank you.
+
+# Additional links
+
+- [Impacts of the AEA Data Editorship](https://aeadataeditor.github.io/aea-cumulative-summary/)
+- Internship with the AEA Data Editor years [2](https://aeadataeditor.github.io/projects/project5), [3](https://aeadataeditor.github.io/projects/project6), and [latest](https://aeadataeditor.github.io/projects/project7)
+- [LDI Replication Lab Manual](https://labordynamicsinstitute.github.io/ldilab-manual/), including instructions on how to generate reproducible output from a variety of software packages.
+- [Template repository for reproducibility checks](https://github.com/AEADataEditor/replication-template), including template report and sample code.
+- 2025 Report of the AEA Data Editor [@10.1257/pandp.115.944] 
+
+---
+
+## References 
+
+
+# Appendix
 
 # Student experiences and reproducibility services {auto-animate=true transition="fade"}
 
@@ -255,35 +294,4 @@ I will go beyond that, and argue **"Yes we should!"**
 :::
 
 [^archive]: Possibly see <https://labordynamicsinstitute.github.io/tutorial-data-sharing-archiving-2021/>
-
-
-# **Yes we should**
-
-## **Yes we should**
-
-::: {.incremental}
-
-- Include training on reproducible practices in **undergraduate curricula** (junior / penultimate year) [^alsomendez]
-- Include training on reproducible practices in **graduate curricula** (after coursework) 
-- Training should include practice on **pre-publication** (own faculty) and **post-publication** (journal publications)
-- May involve structured reporting (**[Social Science Reproduction Platform](https://www.socialsciencereproduction.org/)**)
-
-:::
-
-[^alsomendez]: See also @mendez-carbajoDataCitationsReproducibility2023
-
-# Thank you.
-
-# Additional links
-
-- [Impacts of the AEA Data Editorship](https://aeadataeditor.github.io/aea-cumulative-summary/impacts_of_aea_data_editing.html)
-- Internship with the AEA Data Editor years [2](https://aeadataeditor.github.io/projects/project5), [3](https://aeadataeditor.github.io/projects/project6), and [latest](https://aeadataeditor.github.io/projects/project7)
-- [LDI Replication Lab Manual](https://labordynamicsinstitute.github.io/ldilab-manual/), including instructions on how to generate reproducible output from a variety of software packages.
-- [Template repository for reproducibility checks](https://github.com/AEADataEditor/replication-template), including template report and sample code.
-- 2025 Report of the AEA Data Editor [@10.1257/pandp.115.944] 
-
----
-
-## References 
-
 
