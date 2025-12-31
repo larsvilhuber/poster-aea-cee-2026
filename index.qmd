@@ -205,6 +205,18 @@ I will go beyond that, and argue **"Yes we should!"**
 - Basic use of multiple software not previously used
 - Repeated use of modern software development tools: Git, Markdown, automation 
 
+# Resources
+
+## List of articles that can be reproduced
+
+- (mostly) complete list: <https://www.openicpsr.org/openicpsr/search/aea/studies>
+- (coming) complete list with additional attributes (programming language, data access type)
+- (broader) list of [economics articles with data](https://ejd.econ.mathematik.uni-ulm.de/)
+
+## Templates
+
+- for reporting reproduction attempts in a semi-narrative fashion: [full template](https://github.com/AEADataEditor/replication-template/blob/master/REPLICATION.md), [abbreviated template](https://github.com/AEADataEditor/replication-template/blob/master/EXTERNAL-REPORT.md)
+- Training articles: <https://labordynamicsinstitute.github.io/replicability-training-solutions/> (solutions available upon request)
 
 # **Yes we should**
 
